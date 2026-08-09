@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/win32ss/supermium/releases/download/v144-r5/supermium_144_64_setup_win10_11.exe#/dl.zip",
-            "hash": "ccab398b616597744c460361db14681fd619907647a22340ef813cfb60eddc3c"
+            "url": "https://github.com/win32ss/supermium/releases/download/v144-r5/supermium_144_64_setup.exe#/dl.zip",
+            "hash": "9289739ffed53dba4f4bde4ce7b9b7303ea27617e1d8f179793bcd607057da58"
         },
         "32bit": {
             "url": "https://github.com/win32ss/supermium/releases/download/v144-r5/supermium_144_32_setup.exe#/dl.zip",
@@ -51,7 +51,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/win32ss/supermium/releases/download/$matchTag/supermium_$majorVersion_64_setup_win10_11.exe#/dl.zip"
+                "url": "https://github.com/win32ss/supermium/releases/download/$matchTag/supermium_$majorVersion_64_setup.exe#/dl.zip"
             },
             "32bit": {
                 "url": "https://github.com/win32ss/supermium/releases/download/$matchTag/supermium_$majorVersion_32_setup.exe#/dl.zip"
