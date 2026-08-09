@@ -10,7 +10,7 @@ reviews:
       - "WIP"
     drafts: false
     base_branches:
-      - master
+      - 81
   poem: false
   in_progress_fortune: false
   high_level_summary: false
